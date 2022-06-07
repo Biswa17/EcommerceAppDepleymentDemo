@@ -13,7 +13,7 @@ module.exports = {
 	},
 	mysql: {
 		local: {
-			host: "localhost",
+			host: "192.168.29.93",
 			user: "root",
 			password: "root",
 			database: "ecommerce"
